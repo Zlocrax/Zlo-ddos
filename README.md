@@ -2,7 +2,9 @@
 For termux/kali/ubunutu and windows 
 
 PREREQUISITES:
+
 python 
+
 git
 
 INSTALL:
