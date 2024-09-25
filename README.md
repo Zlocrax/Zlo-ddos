@@ -7,7 +7,7 @@ git
 
 INSTALL:
 
-git clone https://github.com/Zlocrax/Zlo-ddos
+git clone https://<i></i>github.com/Zlocrax/Zlo-ddos
 
 cd Zlo-ddos
 
